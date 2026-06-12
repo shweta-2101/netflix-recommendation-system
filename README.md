@@ -31,6 +31,7 @@ https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data
 - Sparsity: 99.40%
 
 ## Project Structure
+```
 CULT_AIML_PROJECT/
 ├── notebooks/
 │   ├── 01_data_loading_and_sampling.ipynb
@@ -49,6 +50,7 @@ CULT_AIML_PROJECT/
 │   └── error_distribution.png
 ├── .gitignore
 └── README.md
+```
 
 ## Models Implemented
 ### Model 1 — Item-Based Collaborative Filtering
